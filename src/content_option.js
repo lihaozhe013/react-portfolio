@@ -1,18 +1,18 @@
-const logotext = "JOHN";
+const logotext = "HAOZHE";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Haozhe Li",
+    description: "I'm Haozhe, a third year Computer Engineering student at University of Toronto",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Haozhe Li",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I am a Computer Engineering student at U of T.",
+        second: "I hate math but I have to learn it :(",
+        third: "I enjoy the happiness brought by the Internet :)",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "This page was based on the open source project https://github.com/ubaimutl/react-portfolio",
+    your_img_url: "https://raw.githubusercontent.com/lihaozhe013/react-portfolio/refs/heads/master/src/assets/Me.png",
 };
 
 const dataabout = {
@@ -136,21 +136,19 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "lihaozhe013@gmail.com",
+    YOUR_FONE: "+1 (437)661-7680",
+    description: "This page was build based on https://github.com/ubaimutl/react-portfolio, The input boxes on the right is not available, please DO NOT use it.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    // YOUR_SERVICE_ID: "service_id",
+    // YOUR_TEMPLATE_ID: "template_id",
+    // YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/lihaozhe013",
+    linkedin: "https://www.linkedin.com/in/haozhe-li-5553232b0/"
 };
 export {
     meta,
