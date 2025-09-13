@@ -79,13 +79,13 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://raw.githubusercontent.com/lihaozhe013/react-portfolio/refs/heads/master/src/assets/erp.png",
     description:
-      "A simple ERP system based on Node.js. To test my system, use the username: user, password: Thisistheuserpassword",
-    link: "https://haozheliexampleproject.xyz/login",
+      "A simple ERP system based on Node.js. Click to view details.",
+    link: "https://lihaozhe013.github.io/my-site/project/simple-erp-system.html",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://raw.githubusercontent.com/lihaozhe013/react-portfolio/refs/heads/master/src/assets/erp.png",
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
